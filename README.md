@@ -1,18 +1,13 @@
 Culturama
 
-Visão Geral
+Foco do Projeto: Aprendizado em CSS
 
-O Culturama é uma plataforma online desenvolvida para conectar artistas e amantes da arte, promovendo a cultura e o talento local. Com o Culturama, artistas podem divulgar seus trabalhos, eventos e cursos, enquanto o público pode facilmente descobrir e apoiar a cena artística.
+Este projeto foi concebido com um forte foco no aprendizado e aprofundamento em CSS. O principal objetivo ao desenvolvê-lo foi explorar e aplicar diversas técnicas de estilização, incluindo:
 
-Tecnologias Utilizadas
+Design Responsivo: Garantindo que o site se adapte e tenha uma ótima aparência em diferentes dispositivos (desktops, tablets e celulares).
 
-Este projeto foi construído com as seguintes tecnologias:
+Seletores e Propriedades CSS: Utilizando uma variedade de seletores e propriedades para controlar o layout, cores, tipografia e espaçamento.
 
-HTML5: Para a estrutura e conteúdo da página.
+Layouts Flexbox e Grid: Experimentando e implementando layouts modernos para organização de conteúdo.
 
-CSS3: Para estilização e design responsivo, garantindo uma boa experiência em diversos dispositivos.
 
-Funcionalidades Principais
-Página Inicial (Home): Apresenta uma visão geral do projeto e os principais destaques.
-
-Design Responsivo: Adapta-se a diferentes tamanhos de tela (desktops, tablets e smartphones), proporcionando uma navegação fluida.
